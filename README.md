@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript | Ruby on Rails | Python 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
+- 💻 &nbsp; JavaScript | Ruby on Rails  
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | Redux
 - 🛢 &nbsp; MySQL | MongoDB | PostgreSQL
-- 🔧 &nbsp; Git | Markdown | RSpec | Jest.js
+- 🔧 &nbsp; Git | Markdown | RSpec | Jest | Enzyme
 <!-- - 🖥 &nbsp; -->
 
 <br/>
