@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 - 🎓 &nbsp; Self taught software developer, studying software development under Microverse, the global school of remote programmers.
 - 💼 &nbsp; Currently Open for opportunities
 - 🌱 &nbsp; Learning more about Full Stack JS and Cloud architecture
-- ✍️ &nbsp; Pursuing Fintech and Blog Writing as hobbies/side hustles.
+<!--
+- ✍️ &nbsp; Pursuing Fintech and Blog Writing as hobbies/side hustles.-->
 
 <h3>🛠 Tech Stack</h3>
 
