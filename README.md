@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Self taught software developer, studying software development under Microverse, the global school of remote programmers.
+- 🎓 &nbsp; Self taught software developer
 - 💼 &nbsp; Currently Open for opportunities
 - 🌱 &nbsp; Diving into Cloud
 <!--
