@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Self taught software developer, studying software development under Microverse, the global school of remote programmers.
 - 💼 &nbsp; Currently Open for opportunities
-- 🌱 &nbsp; Diving deeply in React
+- 🌱 &nbsp; Diving into Cloud
 <!--
 - ✍️ &nbsp; Pursuing Fintech and Blog Writing as hobbies/side hustles.-->
 
