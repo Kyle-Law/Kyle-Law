@@ -19,17 +19,17 @@ Here are some ideas to get you started:
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Self taught software developer
-- 💼 &nbsp; Currently Open for opportunities
-- 🌱 &nbsp; Diving into Cloud
+- 💼 &nbsp; Currently a Senior Rails Software Engineer
+- 🌱 &nbsp; Diving into Cloud, particularly AWS
 <!--
 - ✍️ &nbsp; Pursuing Fintech and Blog Writing as hobbies/side hustles.-->
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | Ruby on Rails  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | Redux
-- 🛢 &nbsp; MySQL | MongoDB | PostgreSQL
-- 🔧 &nbsp; Git | Markdown | RSpec | Jest | Enzyme
+- 🌐 &nbsp; HTML | CSS | JavaScript | 
+- 🛢 &nbsp; MySQL | PostgreSQL
+- 🔧 &nbsp; Git | Markdown | RSpec | Jest | Enzyme | AWS | Kubernetes
 <!-- - 🖥 &nbsp; -->
 
 <br/>
