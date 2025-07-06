@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Self taught software developer
 - 🌱 &nbsp; Diving into Cloud, particularly AWS, Kubernetes
 <!--
 - ✍️ &nbsp; Pursuing Fintech and Blog Writing as hobbies/side hustles.-->
